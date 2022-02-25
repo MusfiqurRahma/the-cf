@@ -1,0 +1,56 @@
+#banner{
+    background-image:url(../../../image/football-website-image/Group\ 11.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+@media only screen and (max-width: 688px) {
+    #banner {
+        width: 100%;
+        height: auto;
+    }
+}
+.banner-text{
+    color: white;
+    margin-left: 11%;
+    text-align: left;
+    padding-top: 10%;
+}
+.banner-text h2{
+    font-size: 38px;
+    font-family: poppins;
+    font-weight: 700;
+}
+.banner-text p{
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: 400;
+}
+.banner-btn{
+    margin: 50px auto 0 -7px;
+}
+.banner-btn a{
+    width: 150px;
+    background-image: linear-gradient(90deg, #FE5266 0%, #FE8B15 100.79%);
+    text-decoration: none;
+    font-family:poppins;
+    font-style: italic;
+    color: white;
+    border: .5px solid #FE8B15;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 12px 0;
+    position: relative;
+    text-align: center;
+}
+.arrow{
+    margin-left: 70%;
+    margin-top: -23px;
+}
+.fa-solid{
+    margin: 5px;
+    border: 1px solid aliceblue;
+    padding: 10px 20px;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}

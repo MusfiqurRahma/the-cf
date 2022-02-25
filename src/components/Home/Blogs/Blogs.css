@@ -1,0 +1,40 @@
+.blogsContainer{
+    background-color: black;
+    margin-top: 100px;
+    height: 80vh;
+    margin-bottom: 120px;
+}
+.blogs-btn{
+    background: #fff;
+    width: 100px;
+}
+.blogs-btn a{
+    text-decoration: none;
+    font-style: italic;
+    margin-left: 25px;
+    color: #000;
+}
+.blogsText{
+    text-align: left;
+    color: white;
+    padding-top: 150px;
+    font-family: poppins;
+}
+.blogsText h2{
+    font-weight: 700;
+    font-size: 48px;
+}
+.blogsText p{
+    font-size: 14px;
+}
+.fbOne,.fbTwo{
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.fbThree{
+  width: 100%;
+  height: 400px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}

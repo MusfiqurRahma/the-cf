@@ -1,0 +1,36 @@
+.aboutImage{
+    background-image: url('../../../image/football-website-image/image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    border-radius: 30px;
+}
+.aboutLogo{
+    width: 195.55px;
+    height: 195.9px;
+    margin-top: 60px;
+}
+.learnMoreBtn{
+    background-image: linear-gradient(90deg, #FE5266 0%, #FE8B15 100.79%);
+    color: white;
+    border: 1px solid #FE8B15;
+    padding: 8px 12px;
+}
+.aboutText{
+    text-align: left;
+}
+.aboutText h6{
+   font-weight: 700;
+   font-family: poppins;
+   color: #6566e9;
+}
+.aboutText h4{
+    font-size: 32px;
+    font-weight: 700;
+    color: #091156;
+    font-family: poppins;
+}
+.aboutText p{
+    color: #8b8b8b;
+    font-size: 14px;
+}

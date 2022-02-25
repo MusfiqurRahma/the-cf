@@ -1,0 +1,11 @@
+.logoText{
+    display: flex;
+    margin-left: 42px;
+    font-family: poppins;
+    font-weight: 700;
+    color:#000000;
+}
+.logoImg{
+    width: 33.45px;
+    height: 32.6px;
+}
